@@ -1,7 +1,5 @@
+<h3>Написать программу, выводящую на экран свой собственный код. </h3>
 <?php
-/**
- * Created by PhpStorm.
- * User: Admin
- * Date: 12.01.2017
- * Time: 0:35
- */
+$q="'";
+$s='<?$q="";$s=;print substr($s,0,6).$q.substr($s,6,5).$q.$s.$q.substr($s,11);'
+;print substr($s,0,6).$q.substr($s,6,5).$q.$s.$q.substr($s,11);
